@@ -24,7 +24,7 @@ Pgpool-II is an advanced **middleware solution** for PostgreSQL that boosts your
 
 🌐 Dive into the details and **unlock the potential of Pgpool-II** with this in-depth guide:
 
-👉 [**Pgpool-II with PostgreSQL – An Overview and Features**](https://techblog.geekyants.com/pgpool-ii-with-postgresql)
+👉 [**Pgpool-II with PostgreSQL – Setup and Features**](https://techblog.geekyants.com/pgpool-ii-with-postgresql)
 
 This blog offers practical insights and configurations to get you started with Pgpool-II in your database environment.
 
